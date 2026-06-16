@@ -1,4 +1,5 @@
 # About Me:
+
 ⚙️ bringing a bit more practice to theory!
 🎓 2nd year Computer Science student at Aristotle University of Thessaloniki (AUTh)
 💻 I enjoy building projects across systems programming, computer vision, and software development.  
