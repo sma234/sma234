@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Smaragda Baxevani
+# About Me:
 
 🎓 2nd year Computer Science student at Aristotle University of Thessaloniki (AUTh)  
 💻 I enjoy building projects across systems programming, computer vision, and software development.  
@@ -33,8 +33,3 @@
 | [CarRentalApp](https://github.com/sma234/CarRentalApp) | Car rental management app with a full GUI and database-backed booking system. | `Java` |
 
 ---
-
-### 📊 GitHub Stats:
-
-![Smaragda's GitHub stats](https://github-readme-stats.vercel.app/api?username=sma234&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sma234&layout=compact&theme=dark&hide_border=true)
