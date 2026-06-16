@@ -1,10 +1,10 @@
 # About Me:
-
-🎓 2nd year Computer Science student at Aristotle University of Thessaloniki (AUTh)  
+⚙️ bringing a bit more practice to theory!
+🎓 2nd year Computer Science student at Aristotle University of Thessaloniki (AUTh)
 💻 I enjoy building projects across systems programming, computer vision, and software development.  
 📫 Reach me at **baxevanismaragda@gmail.com**
 
-### 🌐 Socials:
+### 🤝 Let's connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smaragda-baxevani-b45641333/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baxevanismaragda@gmail.com)
