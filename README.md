@@ -4,7 +4,7 @@
 
 🎓 2nd year Computer Science student at Aristotle University of Thessaloniki (AUTh)
 
-💻 I enjoy building projects across systems programming, computer vision, and software development.  
+💻 I enjoy building projects across systems, computer vision, and software development.  
 
 
 ### 🤝 Let's connect:
